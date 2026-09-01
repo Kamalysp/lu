@@ -8,4 +8,4 @@ sdv>=0.17,<0.18
 sentencepiece==0.2.0
 smart_open>=2.1.0,<6.0
 tqdm<5.0
-python-3.11.9
+
